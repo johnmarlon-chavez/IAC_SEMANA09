@@ -6,8 +6,6 @@ on:
       - main  
       - develop
 
-
-
 jobs:
   saludo:
     runs-on: ubuntu-latest
